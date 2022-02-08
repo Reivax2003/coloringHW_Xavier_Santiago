@@ -1,9 +1,6 @@
-package com.example.customcoloringassignment;
+package com.example.coloringhwxaviersantiago;
 
 import android.graphics.Canvas;
-import android.graphics.Rect;
-
-import com.example.customcoloringassignment.CustomElement;
 
 /**
  * <!-- class CustomCircle -->

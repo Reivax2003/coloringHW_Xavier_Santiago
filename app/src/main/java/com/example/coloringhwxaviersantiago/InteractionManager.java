@@ -1,9 +1,7 @@
-package com.example.customcoloringassignment;
+package com.example.coloringhwxaviersantiago;
 
 import android.graphics.Color;
 import android.os.Build;
-import android.text.method.Touch;
-import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.SeekBar;

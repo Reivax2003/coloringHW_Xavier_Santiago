@@ -1,9 +1,8 @@
-package com.example.customcoloringassignment;
+package com.example.coloringhwxaviersantiago;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.SeekBar;
 
 /**

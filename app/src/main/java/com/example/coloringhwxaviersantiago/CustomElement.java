@@ -1,11 +1,10 @@
-package com.example.customcoloringassignment;
+package com.example.coloringhwxaviersantiago;
 
 import java.util.Random;
 
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
-import android.util.Log;
 
 /**
  * <!-- class CustomElement -->

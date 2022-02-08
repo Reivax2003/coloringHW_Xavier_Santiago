@@ -1,10 +1,9 @@
-package com.example.customcoloringassignment;
+package com.example.coloringhwxaviersantiago;
 
 import android.content.Context;
 import android.graphics.Canvas;
 import android.util.AttributeSet;
 import android.view.SurfaceView;
-import android.widget.TextView;
 
 /**
  * @author Xavier Santiago

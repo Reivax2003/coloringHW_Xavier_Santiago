@@ -13,7 +13,7 @@
         android:text="Select an Object"
         android:textSize="30dp" />
 
-    <com.example.customcoloringassignment.DrawingView
+    <com.example.coloringhwxaviersantiago.DrawingView
         android:id="@+id/drawingView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

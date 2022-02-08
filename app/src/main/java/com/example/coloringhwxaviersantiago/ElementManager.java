@@ -1,9 +1,7 @@
-package com.example.customcoloringassignment;
+package com.example.coloringhwxaviersantiago;
 
 import android.graphics.Color;
 import android.os.Build;
-import android.util.Log;
-import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.annotation.RequiresApi;
