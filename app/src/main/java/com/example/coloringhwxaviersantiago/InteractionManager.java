@@ -54,6 +54,12 @@ public class InteractionManager implements SeekBar.OnSeekBarChangeListener, View
     }
 
 
+    /**
+     * External Citation
+     * Mon Feb 7
+     * Android Studio Documentation
+     * Again, used documentation for Color functions
+     */
     @RequiresApi(api = Build.VERSION_CODES.O)
     @Override
     public boolean onTouch(View view, MotionEvent motionEvent) { //get the element we tapped and set the seek bars

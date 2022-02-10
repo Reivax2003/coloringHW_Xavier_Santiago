@@ -54,6 +54,13 @@ public class ElementManager {
         return elements;
     }
 
+    /**
+     * External Citation
+     * Mon Feb 7
+     * Android Studio Documentation
+     * Needed to figure out how to use Color class
+     */
+
     //change the color of something
     @RequiresApi(api = Build.VERSION_CODES.O)
     public void setElementRed(int red) {
